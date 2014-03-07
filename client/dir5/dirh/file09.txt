@@ -1,0 +1,35 @@
+Introducing Exponential.io
+==========================
+
+Exponential.io enables you to develop better apps faster with less effort. 
+Exponential.io delivers the same tooling used by developers at the biggest and 
+best technology companies. Specifically, Exponential is a complete suite of 
+development tools, workflow, code generators, and deployment tools that boost 
+your productivity 10x.
+
+Mongo, Express, Node and Angular
+--------------------------------
+
+Exponential is a complete development environment that includes AngularJS for 
+client-side JavaScript (including Single Page Apps - SPAs), Express and 
+NodeJS for server-side apps and websites, plus MongoDB as the database.
+
+How does Exponential work?
+--------------------------
+
+Exponential automates the following development steps for you:
+
+1. First, you define your project's settings in a Module Definition File (MDF). 
+   MDF is a small configuration file that is used by Exponential to generate 
+   code for you.
+2. Exponential sets up your project in a few seconds. The project includes a 
+   production ready configuration of Mongo, Express, Angular and Node (MEAN).
+3. Exponential generates your server-side API.
+4. Exponential generates your server-side web pages in Express.
+5. And finally, Exponential generates your Angular application.
+
+Who is Exponential for?
+-----------------------
+
+Exponential is designed for web developers. Both new and experienced developers 
+will be able to build apps faster with Exponential.
